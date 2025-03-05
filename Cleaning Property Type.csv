@@ -1,0 +1,77 @@
+﻿Existing Property Type,New Property Type
+Private room in bed and breakfast,Bed and Breakfast
+Room in bed and breakfast,Bed and Breakfast
+Shared room in bed and breakfast,Bed and Breakfast
+Private room in bungalow,Bungalow
+Entire bungalow,Bungalow
+Entire cabin,Cabin
+Private room in cabin,Cabin
+Camper/RV,Camper
+Castle,Castle
+Entire chalet,Chalet
+Entire condo,Condo
+Private room in condo,Condo
+Shared room in condo,Condo
+Entire cottage,Cottage
+Private room in cottage,Cottage
+Dome,Dome
+Barn,Farm Stay
+Private room in farm stay,Farm Stay
+Shared room in farm stay,Farm Stay
+Entire guest suite,Guesthouse
+Entire guesthouse,Guesthouse
+Private room in guesthouse,Guesthouse
+Private room in guest suite,Guesthouse
+Private room in casa particular,Guesthouse
+Shared room in guesthouse,Guesthouse
+Casa particular,Guesthouse
+Private room in home,Home
+Entire home,Home
+Shared room in home,Home
+Tiny home,Home
+Entire place,Home
+Private room in vacation home,Home
+Entire vacation home,Home
+Earthen home,Home
+Private room in tiny home,Home
+Entire home/apt,Home
+Shared room in vacation home,Home
+Private room,Hostel
+Private room in hostel,Hostel
+Shared room in hostel,Hostel
+Room in hostel,Hostel
+Shared room,Hostel
+Room in aparthotel,Hotel
+Room in hotel,Hotel
+Room in boutique hotel,Hotel
+Shared room in boutique hotel,Hotel
+Shared room in hotel,Hotel
+Houseboat,Houseboat
+Boat,Houseboat
+Private room in houseboat,Houseboat
+Private room in boat,Houseboat
+Private room in hut,Hut
+Hut,Hut
+Shepherd’s hut,Hut
+"""Private room in shepherds hut""",Hut
+Island,Island
+Private room in loft,Loft
+Entire loft,Loft
+Private room in religious building,Religious Building
+Private room in rental unit,Rental Unit
+Entire rental unit,Rental Unit
+Shared room in rental unit,Rental Unit
+Room in rental unit,Rental Unit
+Room in serviced apartment,Service Apartment
+Entire serviced apartment,Service Apartment
+Private room in serviced apartment,Service Apartment
+Shipping container,Shipping Container
+Tent,Tent
+Tower,Tower
+Entire townhouse,Townhouse
+Private room in townhouse,Townhouse
+Shared room in townhouse,Townhouse
+Private room in treehouse,Treehouse
+Private room in villa,Villa
+Entire villa,Villa
+Shared room in villa,Villa
